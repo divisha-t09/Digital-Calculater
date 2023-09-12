@@ -1,5 +1,4 @@
 # Digital-Calculater
-Basic Arithmetic Operations Program
 This C++ program allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. You can input two numbers and choose the operation you want to perform.
 
 ## Features:-
